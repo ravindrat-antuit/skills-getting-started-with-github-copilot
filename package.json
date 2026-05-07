@@ -1,0 +1,12 @@
+{
+  "name": "mergington-high-activities",
+  "version": "1.0.0",
+  "description": "Mergington High School extracurricular activities website",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
