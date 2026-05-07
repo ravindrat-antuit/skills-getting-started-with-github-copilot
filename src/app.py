@@ -24,20 +24,58 @@ activities = {
     "Chess Club": {
         "description": "Learn strategies and compete in chess tournaments",
         "schedule": "Fridays, 3:30 PM - 5:00 PM",
+        "duration": "1.5 hours",
+        "activity_type": "Academic / Strategy",
         "max_participants": 12,
         "participants": ["michael@mergington.edu", "daniel@mergington.edu"]
     },
     "Programming Class": {
         "description": "Learn programming fundamentals and build software projects",
         "schedule": "Tuesdays and Thursdays, 3:30 PM - 4:30 PM",
+        "duration": "1 hour",
+        "activity_type": "Academic / Technology",
         "max_participants": 20,
         "participants": ["emma@mergington.edu", "sophia@mergington.edu"]
     },
     "Gym Class": {
         "description": "Physical education and sports activities",
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
+        "duration": "1 hour",
+        "activity_type": "Sports / Physical Education",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
+    },
+    "Art Club": {
+        "description": "Explore painting, drawing, and mixed-media art techniques",
+        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "duration": "1.5 hours",
+        "activity_type": "Arts / Creative",
+        "max_participants": 15,
+        "participants": ["alice@mergington.edu"]
+    },
+    "Drama Club": {
+        "description": "Rehearse and perform stage plays and improvisational theatre",
+        "schedule": "Tuesdays, 4:00 PM - 6:00 PM",
+        "duration": "2 hours",
+        "activity_type": "Arts / Performing",
+        "max_participants": 25,
+        "participants": ["liam@mergington.edu", "mia@mergington.edu"]
+    },
+    "Math Team": {
+        "description": "Prepare for math competitions and solve challenging problems",
+        "schedule": "Thursdays, 3:30 PM - 4:30 PM",
+        "duration": "1 hour",
+        "activity_type": "Academic / Mathematics",
+        "max_participants": 15,
+        "participants": ["noah@mergington.edu"]
+    },
+    "Science Club": {
+        "description": "Conduct experiments and explore scientific concepts hands-on",
+        "schedule": "Mondays, 3:30 PM - 5:00 PM",
+        "duration": "1.5 hours",
+        "activity_type": "Academic / Science",
+        "max_participants": 20,
+        "participants": ["ava@mergington.edu", "ethan@mergington.edu"]
     }
 }
 
